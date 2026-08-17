@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-z834y3.indocuansite.space/sitemap.xml
